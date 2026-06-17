@@ -35,7 +35,8 @@ img {
 .refresh-btn {
   background-color: #007bff;
   color: white;
-  border: 50px;
+  border: none;
+  margin-top: 24px; 
   padding: 15px 30px; 
   font-size: 18px;
   font-family: sans-serif;

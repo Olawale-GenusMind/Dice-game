@@ -1,5 +1,5 @@
 .container {
-  width: 60%;
+  width: 80%;
   margin: auto;
   text-align: center;
 }
@@ -17,19 +17,19 @@ body {
 h1 {
   margin: 20px;
   font-family: 'Lobster', cursive;
-  text-shadow: 4px 0 #232931;
-  font-size: 6rem;
+  text-shadow: 6px 0 #232931;
+  font-size: 8rem;
   color: #4ECCA3;
 }
 
 p {
-  font-size: 2rem;
+  font-size: 4rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 70%;
+  width: 80%;
   margin-bottom: 24px;
 }
 
@@ -49,8 +49,8 @@ img {
 }
 
 .button-container{
-  height: 50px;
-  margin-top: 24px;
+  height: 100px;
+  margin-top: 30px;
 }
 .refresh-btn:hover {
   background-color: #0056b3;

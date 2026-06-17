@@ -35,18 +35,15 @@ img {
 .refresh-btn {
   background-color: #007bff;
   color: white;
-  border: none;
-  margin-top: 24px; 
+  border: none; 
   padding: 15px 30px; 
   font-size: 18px;
   font-family: sans-serif;
   border-radius: 5px;
   cursor: pointer;
   transition: background-color 0.3s ease;
-}
-
-.refresh-btn {
   display: block;
+  margin-top: 24px;
   margin-left: auto;
   margin-right: auto;
 }

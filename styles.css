@@ -37,7 +37,7 @@ img {
   color: white;
   border: none;
   padding: 10px 20px;
-  font-size: 16px;
+  font-size: 18px;
   font-family: sans-serif;
   border-radius: 5px;
   cursor: pointer;
@@ -48,6 +48,14 @@ img {
   background-color: #0056b3;
 }
 
+footer {
+  font-size: 18px
+}
+.button-container {
+  display: flex;
+  justify-content: center; 
+  align-items: center;             
+}
 footer {
   margin-top: 5%;
   color: #EEEEEE;

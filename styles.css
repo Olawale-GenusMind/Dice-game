@@ -43,11 +43,14 @@ img {
   cursor: pointer;
   transition: background-color 0.3s ease;
   display: block;
-  margin-top: 24px;
   margin-left: auto;
   margin-right: auto;
 }
 
+.button-container{
+  height: 50px
+  margin-top: 24px;
+}
 .refresh-btn:hover {
   background-color: #0056b3;
 }

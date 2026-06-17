@@ -1,5 +1,5 @@
 .container {
-  width: 70%;
+  width: 60%;
   margin: auto;
   text-align: center;
 }
@@ -15,21 +15,21 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 20px;
   font-family: 'Lobster', cursive;
-  text-shadow: 5px 0 #232931;
-  font-size: 8rem;
+  text-shadow: 4px 0 #232931;
+  font-size: 6rem;
   color: #4ECCA3;
 }
 
 p {
-  font-size: 4rem;
+  font-size: 2rem;
   color: #4ECCA3;
   font-family: 'Indie Flower', cursive;
 }
 
 img {
-  width: 80%;
+  width: 70%;
 }
 
 .refresh-btn {
@@ -44,6 +44,12 @@ img {
   transition: background-color 0.3s ease;
 }
 
+.refresh-btn {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .refresh-btn:hover {
   background-color: #0056b3;
 }
@@ -51,11 +57,7 @@ img {
 footer {
   font-size: 18px
 }
-.button-container {
-  display: flex;
-  justify-content: center; 
-  align-items: center;             
-}
+
 footer {
   margin-top: 5%;
   color: #EEEEEE;
